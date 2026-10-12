@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q01",
+  "answer": 1678600000,
+  "source": "pipeline/values.csv: KOP Revenue FY2021-12-31, 10-K 0001564590-22-006039",
+  "note": "Total revenue for FY ended 2021-12-31; identical in all three reported versions."
+ },
+ {
+  "id": "Q02",
+  "answer": 510766000,
+  "source": "pipeline/values.csv: HSTM TotalAssets 2024-12-31, 10-K 0001437749-25-005705",
+  "note": "Total assets at 2024-12-31; identical in all versions."
+ },
+ {
+  "id": "Q03",
+  "answer": 124052000,
+  "source": "pipeline/values.csv: UVV NetIncome (NetIncomeLoss) FY2023-03-31, 10-K 0000102037-23-000025",
+  "note": "Net income attributable to the parent for FY ended 2023-03-31; identical in all versions."
+ },
+ {
+  "id": "Q04",
+  "answer": 621000000,
+  "source": "pipeline/values.csv: HSIC OperatingIncome (OperatingIncomeLoss) FY2024-12-28, 10-K 0001000228-25-000014",
+  "note": "Operating income as reported on the income statement for FY ended 2024-12-28; identical in both versions."
+ },
+ {
+  "id": "Q05",
+  "answer": 158104000000,
+  "source": "pipeline/values.csv: JPM Revenue (RevenuesNetOfInterestExpense) FY2023-12-31, 10-K 0000019617-24-000225",
+  "note": "Total net revenue for FY2023; identical in all versions."
+ },
+ {
+  "id": "Q06",
+  "answer": 58496000000,
+  "source": "pipeline/values.csv: PFE Revenue FY2023-12-31 version 1, 10-K filed 2024-02-22, 0000078003-24-000039",
+  "note": "First-reported value from the original FY2023 10-K (later 10-Ks show 59553000000)."
+ },
+ {
+  "id": "Q07",
+  "answer": 95214000000,
+  "source": "pipeline/values.csv: GE Revenue FY2019-12-31 version 1, 10-K filed 2020-02-24, 0000040545-20-000009",
+  "note": "First-reported value from the original FY2019 10-K (later recast to 90221000000)."
+ },
+ {
+  "id": "Q08",
+  "answer": 171760000000,
+  "source": "pipeline/values.csv: T Revenue FY2020-12-31 version 3, 10-K filed 2022-02-16, 0000732717-22-000015",
+  "note": "Latest filing on or before 2022-08-15 reporting FY2020 revenue; the recast to 143050000000 was not filed until 2023-02-13."
+ },
+ {
+  "id": "Q09",
+  "answer": 2352300000,
+  "source": "pipeline/values.csv: AMT OperatingIncome FY2022-12-31 version 2, 10-K filed 2024-02-27, 0001053507-24-000011",
+  "note": "Latest filing on or before 2024-08-15 reporting FY2022 operating income; the recast to 2738600000 was not filed until 2025-02-25."
+ },
+ {
+  "id": "Q10",
+  "answer": 11.61,
+  "source": "pipeline/values.csv: TOL OperatingIncome 1020877000 / Revenue 8790361000, FY2021-10-31, 10-K 0000794170-21-000079",
+  "note": "Operating income as reported divided by total revenue for FY ended 2021-10-31; both identical in all versions."
+ }
+]

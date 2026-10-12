@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q01",
+  "answer": 1678600000,
+  "source": "raw/CIK0001315257.json (us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, 10-K filed 2022-02-23)",
+  "note": "Total net sales for FY ended 2021-12-31; identical in the original and later 10-Ks."
+ },
+ {
+  "id": "Q02",
+  "answer": 510766000,
+  "source": "raw/CIK0001095565.json (us-gaap:Assets, 10-K filed 2025-02-28)",
+  "note": "Total assets at 2024-12-31; unchanged in all later filings."
+ },
+ {
+  "id": "Q03",
+  "answer": 124052000,
+  "source": "raw/CIK0000102037.json (us-gaap:NetIncomeLoss, 10-K filed 2023-05-25)",
+  "note": "Net income attributable to Universal Corporation for FY ended 2023-03-31 (after 6,184,000 noncontrolling interests; consolidated net income was 130,236,000); unchanged in later filings."
+ },
+ {
+  "id": "Q04",
+  "answer": 621000000,
+  "source": "raw/CIK0001000228.json (us-gaap:OperatingIncomeLoss, 10-K filed 2025-02-25)",
+  "note": "Operating income as reported for FY 2023-12-31 to 2024-12-28; same value in the FY2025 10-K."
+ },
+ {
+  "id": "Q05",
+  "answer": 158104000000,
+  "source": "raw/CIK0000019617.json (us-gaap:Revenues / RevenuesNetOfInterestExpense, 10-K filed 2024-02-16)",
+  "note": "Total net revenue (net of interest expense) for FY2023; unchanged in later 10-Ks."
+ },
+ {
+  "id": "Q06",
+  "answer": 58496000000,
+  "source": "raw/CIK0000078003.json (us-gaap:Revenues, 10-K filed 2024-02-22)",
+  "note": "Total revenues for FY2023 as first reported in the original 10-K; later 10-Ks show 59,553,000,000 after recast."
+ },
+ {
+  "id": "Q07",
+  "answer": 95214000000,
+  "source": "raw/CIK0000040545.json (us-gaap:Revenues, 10-K filed 2020-02-24)",
+  "note": "Total revenues for FY2019 as first reported in the original 10-K; later recast to 90,221,000,000 in the FY2021 10-K."
+ },
+ {
+  "id": "Q08",
+  "answer": 171760000000,
+  "source": "raw/CIK0000732717.json (us-gaap:Revenues, 10-K filed 2022-02-16)",
+  "note": "Total operating revenues for FY2020 per the latest filing on or before 2022-08-15 (FY2021 10-K); the recast 143,050,000,000 only appeared in the 10-K filed 2023-02-13."
+ },
+ {
+  "id": "Q09",
+  "answer": 2352300000,
+  "source": "raw/CIK0001053507.json (us-gaap:OperatingIncomeLoss, 10-K filed 2024-02-27)",
+  "note": "Operating income for FY2022 per the latest filing on or before 2024-08-15 (FY2023 10-K); the recast 2,738,600,000 only appeared in the 10-K filed 2025-02-25."
+ },
+ {
+  "id": "Q10",
+  "answer": 11.61,
+  "source": "raw/CIK0000794170.json (us-gaap:OperatingIncomeLoss 1,020,877,000 / us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax 8,790,361,000, 10-K filed 2021-12-17)",
+  "note": "Income from operations divided by total revenues for FY ended 2021-10-31; both values unchanged in later 10-Ks."
+ }
+]

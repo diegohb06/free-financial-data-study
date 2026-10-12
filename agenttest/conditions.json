@@ -1,0 +1,5 @@
+{
+  "A": "Web search and fetching web pages only. You may not read local data files or run code against local data. Do not use the SEC's structured data APIs at data.sec.gov.",
+  "B": "Only the files in {DIR}/raw: one raw SEC XBRL \"companyfacts\" JSON file per company, exactly as downloaded from data.sec.gov, plus index.csv saying which file belongs to which company. You may run code (for example Python) to read them. No web access.",
+  "C": "Only the files in {DIR}/pipeline: a prepared dataset (README.md, values.csv, definitions.csv). You may run code (for example Python) to read them. No web access."
+}

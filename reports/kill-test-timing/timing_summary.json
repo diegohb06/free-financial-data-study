@@ -1,0 +1,293 @@
+{
+  "companies_in_index_list": 500,
+  "companies_with_usable_quarters": 490,
+  "company_quarters": 30079,
+  "filing_lag_days": {
+    "median": 35.0,
+    "p10": 25.0,
+    "p90": 54.0
+  },
+  "tests": {
+    "earnings_yield_offset_0m": {
+      "first_rebalance": "2012-03-31",
+      "last_rebalance": "2026-03-31",
+      "average_companies_ranked": 425.3157894736842,
+      "average_share_of_picks_in_common": 0.8549960272869037,
+      "average_share_of_signals_that_differ": 0.8611091100874522,
+      "annualized_return_period_end": 0.1878156483243917,
+      "annualized_return_filing_date": 0.16572577013626402,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.022089878188127677,
+        "annualized_ci95": [
+          0.012903716527280317,
+          0.030540687367274423
+        ],
+        "t_statistic": 4.894183186454953,
+        "share_of_quarters_period_end_ahead": 0.8245614035087719,
+        "annualized_detectable_effect_80pct_power": 0.01263778991720967
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": 0.04705703744326848,
+        "annualized_ci95": [
+          0.03215592952558303,
+          0.06179213016301292
+        ],
+        "t_statistic": 6.160468889265536,
+        "share_of_quarters_period_end_ahead": 0.8421052631578947,
+        "annualized_detectable_effect_80pct_power": 0.021387934459135043
+      }
+    },
+    "revenue_growth_offset_0m": {
+      "first_rebalance": "2012-03-31",
+      "last_rebalance": "2026-03-31",
+      "average_companies_ranked": 366.6842105263158,
+      "average_share_of_picks_in_common": 0.8491122160166057,
+      "average_share_of_signals_that_differ": 0.857003205306276,
+      "annualized_return_period_end": 0.23101159074712727,
+      "annualized_return_filing_date": 0.23045227195521817,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.0005593187919091169,
+        "annualized_ci95": [
+          -0.011856018491899116,
+          0.013300809418310276
+        ],
+        "t_statistic": 0.08712898339297266,
+        "share_of_quarters_period_end_ahead": 0.5087719298245614,
+        "annualized_detectable_effect_80pct_power": 0.01797441627755569
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": -0.003364202821021836,
+        "annualized_ci95": [
+          -0.022647041126426504,
+          0.015174658959134632
+        ],
+        "t_statistic": -0.34676535318968676,
+        "share_of_quarters_period_end_ahead": 0.5087719298245614,
+        "annualized_detectable_effect_80pct_power": 0.027164674360383292
+      }
+    },
+    "earnings_yield_offset_1m": {
+      "first_rebalance": "2012-04-30",
+      "last_rebalance": "2026-04-30",
+      "average_companies_ranked": 425.7543859649123,
+      "average_share_of_picks_in_common": 0.8739342518151997,
+      "average_share_of_signals_that_differ": 0.656184648675756,
+      "annualized_return_period_end": 0.16824753097082962,
+      "annualized_return_filing_date": 0.16184601263809478,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.006401518332734857,
+        "annualized_ci95": [
+          -0.0008234967054624669,
+          0.013621671267297478
+        ],
+        "t_statistic": 1.7163454088197148,
+        "share_of_quarters_period_end_ahead": 0.5614035087719298,
+        "annualized_detectable_effect_80pct_power": 0.01044326581325121
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": 0.018291477549496848,
+        "annualized_ci95": [
+          0.006340882976525306,
+          0.031182476872077286
+        ],
+        "t_statistic": 2.869027251479287,
+        "share_of_quarters_period_end_ahead": 0.5789473684210527,
+        "annualized_detectable_effect_80pct_power": 0.01785139444464455
+      }
+    },
+    "revenue_growth_offset_1m": {
+      "first_rebalance": "2012-04-30",
+      "last_rebalance": "2026-04-30",
+      "average_companies_ranked": 367.140350877193,
+      "average_share_of_picks_in_common": 0.8727205582728668,
+      "average_share_of_signals_that_differ": 0.6455308055343351,
+      "annualized_return_period_end": 0.22058271851093553,
+      "annualized_return_filing_date": 0.2135531228904019,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.007029595620533634,
+        "annualized_ci95": [
+          -0.002369128890172992,
+          0.01724497547841674
+        ],
+        "t_statistic": 1.4072695532118709,
+        "share_of_quarters_period_end_ahead": 0.5263157894736842,
+        "annualized_detectable_effect_80pct_power": 0.013986565468265218
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": -0.003461082862334362,
+        "annualized_ci95": [
+          -0.02015118815857487,
+          0.012818079717935246
+        ],
+        "t_statistic": -0.40654630899522437,
+        "share_of_quarters_period_end_ahead": 0.5263157894736842,
+        "annualized_detectable_effect_80pct_power": 0.023837461563696184
+      }
+    },
+    "earnings_yield_offset_2m": {
+      "first_rebalance": "2012-05-31",
+      "last_rebalance": "2026-05-31",
+      "average_companies_ranked": 428.7894736842105,
+      "average_share_of_picks_in_common": 0.9794032480812553,
+      "average_share_of_signals_that_differ": 0.09821667367520946,
+      "annualized_return_period_end": 0.16701496073414868,
+      "annualized_return_filing_date": 0.16763386690421958,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": -0.0006189061700709214,
+        "annualized_ci95": [
+          -0.0037885280660339563,
+          0.0025146210395652975
+        ],
+        "t_statistic": -0.3860725673024768,
+        "share_of_quarters_period_end_ahead": 0.43859649122807015,
+        "annualized_detectable_effect_80pct_power": 0.004488630954296405
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": -0.001955897443156255,
+        "annualized_ci95": [
+          -0.007455926961082959,
+          0.003635590431613382
+        ],
+        "t_statistic": -0.6876914811216844,
+        "share_of_quarters_period_end_ahead": 0.3684210526315789,
+        "annualized_detectable_effect_80pct_power": 0.00796361884824405
+      }
+    },
+    "revenue_growth_offset_2m": {
+      "first_rebalance": "2012-05-31",
+      "last_rebalance": "2026-05-31",
+      "average_companies_ranked": 378.0,
+      "average_share_of_picks_in_common": 0.9788402912589469,
+      "average_share_of_signals_that_differ": 0.09507683187028769,
+      "annualized_return_period_end": 0.22275910609590946,
+      "annualized_return_filing_date": 0.22310347583015888,
+      "top_fifth": {
+        "quarters": 57,
+        "annualized_difference": -0.0003443697342494143,
+        "annualized_ci95": [
+          -0.0049392386093226655,
+          0.004960927374937011
+        ],
+        "t_statistic": -0.1376049240413621,
+        "share_of_quarters_period_end_ahead": 0.42105263157894735,
+        "annualized_detectable_effect_80pct_power": 0.007007272905499546
+      },
+      "long_short": {
+        "quarters": 57,
+        "annualized_difference": -0.0027571021983683534,
+        "annualized_ci95": [
+          -0.00786612263084018,
+          0.0026815675665807282
+        ],
+        "t_statistic": -1.0088765680263994,
+        "share_of_quarters_period_end_ahead": 0.45614035087719296,
+        "annualized_detectable_effect_80pct_power": 0.007651962985455504
+      }
+    }
+  },
+  "robustness": {
+    "companies_in_index_since_before_first_rebalance": 284,
+    "revenue_growth": {
+      "first_half_top_fifth": {
+        "quarters": 28,
+        "annualized_difference": -0.002980301876896415,
+        "annualized_ci95": [
+          -0.01729865944562323,
+          0.010661253606781449
+        ],
+        "t_statistic": -0.40180725667779044,
+        "share_of_quarters_period_end_ahead": 0.5,
+        "annualized_detectable_effect_80pct_power": 0.020768279110503225
+      },
+      "second_half_top_fifth": {
+        "quarters": 29,
+        "annualized_difference": 0.003976883575583421,
+        "annualized_ci95": [
+          -0.015129668007574069,
+          0.025570863870183726
+        ],
+        "t_statistic": 0.3793119236185717,
+        "share_of_quarters_period_end_ahead": 0.5172413793103449,
+        "annualized_detectable_effect_80pct_power": 0.029356509295581704
+      },
+      "long_standing_members_top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.009964092363051598,
+        "annualized_ci95": [
+          -0.0032167900698515436,
+          0.02376826113073016
+        ],
+        "t_statistic": 1.4279942473165512,
+        "share_of_quarters_period_end_ahead": 0.5614035087719298,
+        "annualized_detectable_effect_80pct_power": 0.01953751471266246
+      },
+      "long_standing_members_long_short": {
+        "quarters": 57,
+        "annualized_difference": 0.01305698045858207,
+        "annualized_ci95": [
+          -0.006500965673642593,
+          0.03193731989194638
+        ],
+        "t_statistic": 1.3124604076283932,
+        "share_of_quarters_period_end_ahead": 0.5964912280701754,
+        "annualized_detectable_effect_80pct_power": 0.027855731930300765
+      }
+    },
+    "earnings_yield": {
+      "first_half_top_fifth": {
+        "quarters": 28,
+        "annualized_difference": 0.019213511794646067,
+        "annualized_ci95": [
+          0.008514437296288667,
+          0.0295177578644729
+        ],
+        "t_statistic": 3.4223942827605303,
+        "share_of_quarters_period_end_ahead": 0.7857142857142857,
+        "annualized_detectable_effect_80pct_power": 0.01571935568499584
+      },
+      "second_half_top_fifth": {
+        "quarters": 29,
+        "annualized_difference": 0.0248670595335582,
+        "annualized_ci95": [
+          0.010887414185850555,
+          0.037990910940796166
+        ],
+        "t_statistic": 3.510527981858537,
+        "share_of_quarters_period_end_ahead": 0.8620689655172413,
+        "annualized_detectable_effect_80pct_power": 0.019833987096465406
+      },
+      "long_standing_members_top_fifth": {
+        "quarters": 57,
+        "annualized_difference": 0.022093045932198907,
+        "annualized_ci95": [
+          0.010762957679757207,
+          0.03305193655540707
+        ],
+        "t_statistic": 3.848556237731358,
+        "share_of_quarters_period_end_ahead": 0.7543859649122807,
+        "annualized_detectable_effect_80pct_power": 0.016073697456639585
+      },
+      "long_standing_members_long_short": {
+        "quarters": 57,
+        "annualized_difference": 0.045891665918702855,
+        "annualized_ci95": [
+          0.02825835887360588,
+          0.0644445163739928
+        ],
+        "t_statistic": 4.871463061122591,
+        "share_of_quarters_period_end_ahead": 0.7719298245614035,
+        "annualized_detectable_effect_80pct_power": 0.026377427676267124
+      }
+    }
+  }
+}

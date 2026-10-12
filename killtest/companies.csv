@@ -1,0 +1,51 @@
+ticker,cik,predecessor_cik,size,sector,reason
+AAPL,320193,,large,Technology,Pilot carry-over; largest tech filer; clean baseline
+MSFT,789019,,large,Technology,Pilot carry-over; June fiscal year end
+JPM,19617,,large,Banks,Pilot carry-over; largest bank; undisclosed definitions found in pilot
+BAC,70858,,large,Banks,Second large bank to test whether the JPMorgan finding generalizes
+XOM,2115436,34088,large,Energy,Pilot carry-over; largest energy filer; files under a new holding-company CIK
+CVX,93410,,large,Energy,Second large energy company to test whether the ExxonMobil finding generalizes
+JNJ,200406,,large,Health care,Pilot carry-over; known Kenvue recast (selected knowing it restated)
+PFE,78003,,large,Health care,Large pharma
+WMT,104169,,large,Consumer staples retail,Pilot carry-over; January fiscal year end
+PG,80424,,large,Consumer staples,Largest household products company; June fiscal year end
+KO,21344,,large,Consumer staples,Pilot carry-over; excluded from pilot because the fetch tool returned nothing
+HD,354950,,large,Consumer discretionary retail,Largest home improvement retailer; 52/53-week fiscal year
+UNH,731766,,large,Health insurance,Largest health insurer; insurer revenue tagging
+CAT,18230,,large,Industrials,Largest machinery company; has a finance arm
+GE,40545,,large,Industrials,Largest industrial conglomerate by history; multiple spin-offs
+DIS,1744489,,large,Media,Largest media company; September fiscal year end
+T,732717,,large,Telecom,Largest telecom; divested media business
+NEE,753308,,large,Utilities,Largest utility
+AMT,1053507,,large,Real estate,Largest REIT
+TSLA,1318605,,large,Autos,Pilot carry-over; unexplained small net income differences in pilot
+ZION,109380,,mid,Banks,Mid-cap regional bank
+WAL,1212545,,mid,Banks,Mid-cap regional bank
+APA,1841666,6769,mid,Energy,Mid-cap oil and gas producer; holding-company reorganization in 2021
+OVV,1792580,,mid,Energy,Mid-cap oil and gas producer
+WSM,719955,,mid,Consumer discretionary retail,Mid-cap specialty retailer; January fiscal year end
+TOL,794170,,mid,Homebuilding,Mid-cap homebuilder; October fiscal year end
+HAS,46080,,mid,Consumer discretionary,Mid-cap toy maker
+JBL,898293,,mid,Technology hardware,Mid-cap electronics manufacturer; August fiscal year end
+HSIC,1000228,,mid,Health care distribution,Mid-cap health care distributor
+AA,1675149,,mid,Materials,Mid-cap aluminum producer
+UGI,884614,,mid,Utilities,Mid-cap gas utility; September fiscal year end
+CUBE,1298675,,mid,Real estate,Mid-cap self-storage REIT
+EXEL,939767,,mid,Biotechnology,Mid-cap biotech
+LSCC,855658,,mid,Semiconductors,Mid-cap semiconductor company
+OSK,775158,,mid,Industrials,Mid-cap specialty vehicle maker; changed fiscal year end
+HOPE,1128361,,small,Banks,Small-cap regional bank
+TRMK,36146,,small,Banks,Small-cap regional bank
+TALO,1724965,,small,Energy,Small-cap offshore oil producer
+PARR,821483,,small,Energy,Small-cap refiner
+HVT,216085,,small,Consumer discretionary retail,Small-cap furniture retailer
+ETD,896156,,small,Consumer discretionary,Small-cap furniture maker; June fiscal year end
+SCSC,918965,,small,Technology distribution,Small-cap technology distributor; June fiscal year end
+DGII,854775,,small,Technology hardware,Small-cap networking hardware; September fiscal year end
+HSTM,1095565,,small,Health care technology,Small-cap health care software
+ANIP,1023024,,small,Pharmaceuticals,Small-cap specialty pharma
+KOP,1315257,,small,Materials,Small-cap chemicals and wood treatment
+UVV,102037,,small,Consumer staples,Small-cap tobacco leaf supplier; March fiscal year end
+NWN,1733998,,small,Utilities,Small-cap gas utility
+GTY,1052752,,small,Real estate,Small-cap net-lease REIT
+ALK,766421,,small,Airlines,Small-cap airline; acquired Hawaiian Airlines in 2024

@@ -1,0 +1,562 @@
+{
+  "restatements": {
+    "companies": 50,
+    "values_extracted": 3237,
+    "excluded_not_on_a_primary_statement": 50,
+    "excluded_original_filing_not_available": 2,
+    "values_measured": 3185,
+    "values_with_a_later_version": 2959,
+    "all_values": {
+      "values": 3185,
+      "any": {
+        "count": 190,
+        "share": 0.0597
+      },
+      "over_0.1pct": {
+        "count": 116,
+        "share": 0.0364
+      },
+      "over_1pct": {
+        "count": 90,
+        "share": 0.0283
+      },
+      "over_5pct": {
+        "count": 62,
+        "share": 0.0195
+      }
+    },
+    "stock_split_eps_values": 11,
+    "excluding_stock_splits": {
+      "values": 3174,
+      "any": {
+        "count": 179,
+        "share": 0.0564
+      },
+      "over_0.1pct": {
+        "count": 105,
+        "share": 0.0331
+      },
+      "over_1pct": {
+        "count": 79,
+        "share": 0.0249
+      },
+      "over_5pct": {
+        "count": 51,
+        "share": 0.0161
+      }
+    },
+    "excluding_stock_splits_and_fiscal_2025": {
+      "values": 2724,
+      "any": {
+        "count": 177,
+        "share": 0.065
+      },
+      "over_0.1pct": {
+        "count": 103,
+        "share": 0.0378
+      },
+      "over_1pct": {
+        "count": 79,
+        "share": 0.029
+      },
+      "over_5pct": {
+        "count": 51,
+        "share": 0.0187
+      }
+    },
+    "excluding_stock_splits_and_jnj": {
+      "values": 3111,
+      "any": {
+        "count": 176,
+        "share": 0.0566
+      },
+      "over_0.1pct": {
+        "count": 102,
+        "share": 0.0328
+      },
+      "over_1pct": {
+        "count": 76,
+        "share": 0.0244
+      },
+      "over_5pct": {
+        "count": 48,
+        "share": 0.0154
+      }
+    },
+    "by_size": {
+      "large": {
+        "values": 1284,
+        "any": {
+          "count": 91,
+          "share": 0.0709
+        },
+        "over_0.1pct": {
+          "count": 78,
+          "share": 0.0607
+        },
+        "over_1pct": {
+          "count": 59,
+          "share": 0.046
+        },
+        "over_5pct": {
+          "count": 39,
+          "share": 0.0304
+        }
+      },
+      "mid": {
+        "values": 938,
+        "any": {
+          "count": 72,
+          "share": 0.0768
+        },
+        "over_0.1pct": {
+          "count": 15,
+          "share": 0.016
+        },
+        "over_1pct": {
+          "count": 9,
+          "share": 0.0096
+        },
+        "over_5pct": {
+          "count": 6,
+          "share": 0.0064
+        }
+      },
+      "small": {
+        "values": 952,
+        "any": {
+          "count": 16,
+          "share": 0.0168
+        },
+        "over_0.1pct": {
+          "count": 12,
+          "share": 0.0126
+        },
+        "over_1pct": {
+          "count": 11,
+          "share": 0.0116
+        },
+        "over_5pct": {
+          "count": 6,
+          "share": 0.0063
+        }
+      }
+    },
+    "by_item": {
+      "CapEx": {
+        "values": 304,
+        "any": {
+          "count": 24,
+          "share": 0.0789
+        },
+        "over_0.1pct": {
+          "count": 16,
+          "share": 0.0526
+        },
+        "over_1pct": {
+          "count": 15,
+          "share": 0.0493
+        },
+        "over_5pct": {
+          "count": 13,
+          "share": 0.0428
+        }
+      },
+      "Cash": {
+        "values": 348,
+        "any": {
+          "count": 19,
+          "share": 0.0546
+        },
+        "over_0.1pct": {
+          "count": 12,
+          "share": 0.0345
+        },
+        "over_1pct": {
+          "count": 10,
+          "share": 0.0287
+        },
+        "over_5pct": {
+          "count": 7,
+          "share": 0.0201
+        }
+      },
+      "EPSDiluted": {
+        "values": 316,
+        "any": {
+          "count": 7,
+          "share": 0.0222
+        },
+        "over_0.1pct": {
+          "count": 7,
+          "share": 0.0222
+        },
+        "over_1pct": {
+          "count": 5,
+          "share": 0.0158
+        },
+        "over_5pct": {
+          "count": 1,
+          "share": 0.0032
+        }
+      },
+      "NetIncome": {
+        "values": 348,
+        "any": {
+          "count": 17,
+          "share": 0.0489
+        },
+        "over_0.1pct": {
+          "count": 9,
+          "share": 0.0259
+        },
+        "over_1pct": {
+          "count": 5,
+          "share": 0.0144
+        },
+        "over_5pct": {
+          "count": 2,
+          "share": 0.0057
+        }
+      },
+      "OperatingCashFlow": {
+        "values": 348,
+        "any": {
+          "count": 18,
+          "share": 0.0517
+        },
+        "over_0.1pct": {
+          "count": 9,
+          "share": 0.0259
+        },
+        "over_1pct": {
+          "count": 4,
+          "share": 0.0115
+        },
+        "over_5pct": {
+          "count": 2,
+          "share": 0.0057
+        }
+      },
+      "OperatingIncome": {
+        "values": 230,
+        "any": {
+          "count": 15,
+          "share": 0.0652
+        },
+        "over_0.1pct": {
+          "count": 8,
+          "share": 0.0348
+        },
+        "over_1pct": {
+          "count": 7,
+          "share": 0.0304
+        },
+        "over_5pct": {
+          "count": 5,
+          "share": 0.0217
+        }
+      },
+      "Revenue": {
+        "values": 301,
+        "any": {
+          "count": 32,
+          "share": 0.1063
+        },
+        "over_0.1pct": {
+          "count": 24,
+          "share": 0.0797
+        },
+        "over_1pct": {
+          "count": 21,
+          "share": 0.0698
+        },
+        "over_5pct": {
+          "count": 15,
+          "share": 0.0498
+        }
+      },
+      "StockholdersEquity": {
+        "values": 348,
+        "any": {
+          "count": 12,
+          "share": 0.0345
+        },
+        "over_0.1pct": {
+          "count": 5,
+          "share": 0.0144
+        },
+        "over_1pct": {
+          "count": 3,
+          "share": 0.0086
+        },
+        "over_5pct": {
+          "count": 2,
+          "share": 0.0057
+        }
+      },
+      "TotalAssets": {
+        "values": 347,
+        "any": {
+          "count": 21,
+          "share": 0.0605
+        },
+        "over_0.1pct": {
+          "count": 8,
+          "share": 0.0231
+        },
+        "over_1pct": {
+          "count": 5,
+          "share": 0.0144
+        },
+        "over_5pct": {
+          "count": 2,
+          "share": 0.0058
+        }
+      },
+      "TotalLiabilities": {
+        "values": 284,
+        "any": {
+          "count": 14,
+          "share": 0.0493
+        },
+        "over_0.1pct": {
+          "count": 7,
+          "share": 0.0246
+        },
+        "over_1pct": {
+          "count": 4,
+          "share": 0.0141
+        },
+        "over_5pct": {
+          "count": 2,
+          "share": 0.007
+        }
+      }
+    },
+    "by_fiscal_year_ending": {
+      "2019": {
+        "values": 441,
+        "any": {
+          "count": 53,
+          "share": 0.1202
+        },
+        "over_0.1pct": {
+          "count": 25,
+          "share": 0.0567
+        },
+        "over_1pct": {
+          "count": 19,
+          "share": 0.0431
+        },
+        "over_5pct": {
+          "count": 11,
+          "share": 0.0249
+        }
+      },
+      "2020": {
+        "values": 438,
+        "any": {
+          "count": 49,
+          "share": 0.1119
+        },
+        "over_0.1pct": {
+          "count": 24,
+          "share": 0.0548
+        },
+        "over_1pct": {
+          "count": 15,
+          "share": 0.0342
+        },
+        "over_5pct": {
+          "count": 8,
+          "share": 0.0183
+        }
+      },
+      "2021": {
+        "values": 467,
+        "any": {
+          "count": 29,
+          "share": 0.0621
+        },
+        "over_0.1pct": {
+          "count": 20,
+          "share": 0.0428
+        },
+        "over_1pct": {
+          "count": 20,
+          "share": 0.0428
+        },
+        "over_5pct": {
+          "count": 12,
+          "share": 0.0257
+        }
+      },
+      "2022": {
+        "values": 467,
+        "any": {
+          "count": 14,
+          "share": 0.03
+        },
+        "over_0.1pct": {
+          "count": 13,
+          "share": 0.0278
+        },
+        "over_1pct": {
+          "count": 11,
+          "share": 0.0236
+        },
+        "over_5pct": {
+          "count": 10,
+          "share": 0.0214
+        }
+      },
+      "2023": {
+        "values": 465,
+        "any": {
+          "count": 21,
+          "share": 0.0452
+        },
+        "over_0.1pct": {
+          "count": 17,
+          "share": 0.0366
+        },
+        "over_1pct": {
+          "count": 13,
+          "share": 0.028
+        },
+        "over_5pct": {
+          "count": 10,
+          "share": 0.0215
+        }
+      },
+      "2024": {
+        "values": 446,
+        "any": {
+          "count": 11,
+          "share": 0.0247
+        },
+        "over_0.1pct": {
+          "count": 4,
+          "share": 0.009
+        },
+        "over_1pct": {
+          "count": 1,
+          "share": 0.0022
+        },
+        "over_5pct": {
+          "count": 0,
+          "share": 0.0
+        }
+      },
+      "2025": {
+        "values": 450,
+        "any": {
+          "count": 2,
+          "share": 0.0044
+        },
+        "over_0.1pct": {
+          "count": 2,
+          "share": 0.0044
+        },
+        "over_1pct": {
+          "count": 0,
+          "share": 0.0
+        },
+        "over_5pct": {
+          "count": 0,
+          "share": 0.0
+        }
+      }
+    },
+    "companies_with_a_restatement_over_1pct": 16,
+    "restatements_over_1pct_by_company": {
+      "GE": 29,
+      "PFE": 10,
+      "T": 9,
+      "AMT": 5,
+      "OSK": 5,
+      "SCSC": 4,
+      "JNJ": 3,
+      "KOP": 3,
+      "BAC": 2,
+      "HAS": 2,
+      "TALO": 2,
+      "ALK": 1,
+      "APA": 1,
+      "EXEL": 1,
+      "JPM": 1,
+      "NWN": 1
+    },
+    "share_from_top_3_companies": 0.6076,
+    "median_size_of_restatements_over_1pct": 0.0777,
+    "revenue_restated_over_1pct": {
+      "count": 21,
+      "share": 0.0698
+    }
+  },
+  "free_source_comparison": {
+    "values_compared": 1730,
+    "companies": 50,
+    "fiscal_years_ending": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "results": {
+      "match": 1541,
+      "definition difference": 124,
+      "unexplained": 34,
+      "small difference": 29,
+      "shows first-reported value": 2
+    },
+    "mismatch_over_1pct_share": 0.0925,
+    "definition_difference_share": 0.0717,
+    "companies_with_a_definition_difference": 34,
+    "definition_differences_by_item": {
+      "CapEx": 27,
+      "Cash": 14,
+      "OperatingIncome": 64,
+      "Revenue": 4,
+      "StockholdersEquity": 15
+    },
+    "unexplained_by_item": {
+      "CapEx": 11,
+      "Cash": 8,
+      "EPSDiluted": 7,
+      "NetIncome": 1,
+      "OperatingCashFlow": 1,
+      "Revenue": 6
+    },
+    "results_by_size": {
+      "large": {
+        "match": 625,
+        "definition difference": 42,
+        "small difference": 18,
+        "unexplained": 16
+      },
+      "mid": {
+        "match": 451,
+        "definition difference": 44,
+        "unexplained": 11,
+        "small difference": 6,
+        "shows first-reported value": 2
+      },
+      "small": {
+        "match": 465,
+        "definition difference": 38,
+        "unexplained": 7,
+        "small difference": 5
+      }
+    },
+    "restated_over_1pct_among_compared": 27,
+    "restated_where_free_source_shows_only_the_new_figure": 22,
+    "restated_or_definition_difference": {
+      "count": 148,
+      "share": 0.0855
+    }
+  },
+  "filer_errors_in_proxy_statements": 5
+}

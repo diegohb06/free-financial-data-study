@@ -1,0 +1,47 @@
+{
+  "quarters": 20,
+  "growth_observations": 873,
+  "growth_differs_by_over_1_point": 38,
+  "growth_differs_by_over_5_points": 26,
+  "screens": {
+    "top_5": {
+      "quarters_with_different_picks": 0,
+      "mean_quarterly_return_point_in_time": 0.055470123826381404,
+      "mean_quarterly_return_restated": 0.055470123826381404,
+      "mean_quarterly_difference": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.0,
+      "annualized_difference": 0.0,
+      "annualized_ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "top_10": {
+      "quarters_with_different_picks": 3,
+      "mean_quarterly_return_point_in_time": 0.03948811587036066,
+      "mean_quarterly_return_restated": 0.038912279051800815,
+      "mean_quarterly_difference": 0.0005758368185598474,
+      "ci95_low": -0.003017403434320584,
+      "ci95_high": 0.0043283742675376624,
+      "annualized_difference": 0.0023033472742393897,
+      "annualized_ci95": [
+        -0.012069613737282336,
+        0.01731349707015065
+      ]
+    },
+    "top_15": {
+      "quarters_with_different_picks": 0,
+      "mean_quarterly_return_point_in_time": 0.026048565663395057,
+      "mean_quarterly_return_restated": 0.026048565663395057,
+      "mean_quarterly_difference": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.0,
+      "annualized_difference": 0.0,
+      "annualized_ci95": [
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q41",
+  "answer": 2947690000,
+  "source": "raw/CIK0000939767.json us-gaap:Assets, instant 2025-01-03, 10-K filed 2025-02-11",
+  "note": "Total assets at fiscal year end Jan 3, 2025; unchanged in all later filings."
+ },
+ {
+  "id": "Q42",
+  "answer": 721000000,
+  "source": "raw/CIK0001318605.json us-gaap:NetIncomeLoss FY2020, 10-K filed 2021-02-08",
+  "note": "Net income attributable to common stockholders (after noncontrolling interests of 141M from 862M total); not the 690M EPS numerator."
+ },
+ {
+  "id": "Q43",
+  "answer": 26015000000,
+  "source": "raw/CIK0000070858.json us-gaap:NetIncomeLossAvailableToCommonStockholdersBasic FY2022, 10-K filed 2023-02-22",
+  "note": "Net income 27,528M less preferred dividends 1,513M = net income applicable to common shareholders."
+ },
+ {
+  "id": "Q44",
+  "answer": 344582000000,
+  "source": "raw/CIK0000034088.json us-gaap:Revenues FY2023, 10-K filed 2024-02-28",
+  "note": "Total revenues and other income for FY2023; same in later 10-Ks."
+ },
+ {
+  "id": "Q45",
+  "answer": 2013000000,
+  "source": "raw/CIK0000898293.json us-gaap:OperatingIncomeLoss 2023-09-01 to 2024-08-31, 10-K filed 2024-10-28",
+  "note": "Operating income as reported on Jabil's income statement for FY ended Aug 31, 2024."
+ },
+ {
+  "id": "Q46",
+  "answer": 575936000,
+  "source": "raw/CIK0001724965.json us-gaap:Revenues FY2020, 10-K filed 2023-03-01 (same in 10-K filed 2022-02-25)",
+  "note": "Latest recast FY2020 total revenues; originally reported as 587,486,000 in the 10-K filed 2021-03-11."
+ },
+ {
+  "id": "Q47",
+  "answer": 29139000000,
+  "source": "raw/CIK0000040545.json us-gaap:Revenues FY2022, 10-K filed 2025-02-03",
+  "note": "Most recent filing on or before 2025-12-15 reporting FY2022 total revenues (recast after GE Vernova spin-off); earlier values were 76,555M and 58,100M."
+ },
+ {
+  "id": "Q48",
+  "answer": 11144200000,
+  "source": "raw/CIK0001053507.json us-gaap:Revenues FY2023, 10-K filed 2024-02-27",
+  "note": "Only filing on or before 2024-08-15 reporting FY2023 total revenue; the later recast to 10,012.2M was filed 2025-02-25."
+ },
+ {
+  "id": "Q49",
+  "answer": 13.49,
+  "source": "raw/CIK0000354950.json OperatingIncomeLoss 21,526M / RevenueFromContractWithCustomerExcludingAssessedTax (net sales) 159,514M, 10-K filed 2025-03-21",
+  "note": "Operating income divided by net sales for FY ended Feb 2, 2025 = 13.4947%."
+ },
+ {
+  "id": "Q50",
+  "answer": 5.57,
+  "source": "raw/CIK0000854775.json NetIncomeLoss 24,770,000 / Revenues 444,849,000, 10-K filed 2023-11-22",
+  "note": "Net income divided by total revenue for FY ended Sep 30, 2023 = 5.5682%."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q51",
+  "answer": 515327000,
+  "source": "pipeline/values.csv: LSCC Revenue FY end 2022-01-01, 10-K 0001437749-22-004190",
+  "note": "Total revenue for fiscal year ended 2022-01-01; same in all 3 versions."
+ },
+ {
+  "id": "Q52",
+  "answer": 122336000000,
+  "source": "pipeline/values.csv: T Revenue FY end 2024-12-31, 10-K 0000732717-25-000013",
+  "note": "Total operating revenues FY2024; unchanged in the later 10-K."
+ },
+ {
+  "id": "Q53",
+  "answer": 94950000000,
+  "source": "pipeline/values.csv: BAC Revenue FY end 2022-12-31, 10-K 0000070858-23-000092",
+  "note": "Total revenue, net of interest expense, FY2022; unchanged in later 10-Ks."
+ },
+ {
+  "id": "Q54",
+  "answer": 177556000000,
+  "source": "pipeline/values.csv: JPM Revenue FY end 2024-12-31, 10-K 0000019617-25-000270",
+  "note": "Total net revenue FY2024; unchanged in the later 10-K."
+ },
+ {
+  "id": "Q55",
+  "answer": 202792000000,
+  "source": "pipeline/values.csv: CVX Revenue FY end 2024-12-31, 10-K 0000093410-25-000009",
+  "note": "Total revenues and other income FY2024; unchanged in the later 10-K."
+ },
+ {
+  "id": "Q56",
+  "answer": 135500000,
+  "source": "pipeline/values.csv: HAS CapEx FY end 2023-12-31, is_latest version, 10-K 0000046080-26-000011 (filed 2026-02-25)",
+  "note": "Latest reported FY2023 additions to PP&E; recast from 209300000 as first reported in the FY2023 10-K."
+ },
+ {
+  "id": "Q57",
+  "answer": 3568000000,
+  "source": "pipeline/values.csv: GE OperatingCashFlow FY end 2020-12-31, version 2, 10-K 0000040545-22-000008 (filed 2022-02-11)",
+  "note": "Latest version filed on or before 2022-08-15; first reported was 3597000000, later recast to 3411000000 in 2023."
+ },
+ {
+  "id": "Q58",
+  "answer": 206000000,
+  "source": "pipeline/values.csv: ALK CapEx FY end 2020-12-31, version 1, 10-K 0000766421-21-000018 (filed 2021-02-26)",
+  "note": "Only version filed on or before 2021-08-15; later 10-Ks show 222000000."
+ },
+ {
+  "id": "Q59",
+  "answer": 5.48,
+  "source": "pipeline/values.csv: CUBE Revenue FY2020 679177000 (10-K 0001298675-21-000006) vs FY2019 643915000",
+  "note": "(679177000/643915000 - 1)*100; both years unchanged across versions."
+ },
+ {
+  "id": "Q60",
+  "answer": 12.84,
+  "source": "pipeline/values.csv: OSK Revenue FY end 2021-09-30 7737300000 (10-K 0001564590-21-057221) vs FY end 2020-09-30 6856800000",
+  "note": "(7737300000/6856800000 - 1)*100; both years unchanged across versions."
+ }
+]

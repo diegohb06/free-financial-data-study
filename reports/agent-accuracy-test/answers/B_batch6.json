@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q51",
+  "answer": 515327000,
+  "source": "raw/CIK0000855658.json us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax, 2021-01-03 to 2022-01-01, 10-K filed 2022-02-23",
+  "note": "Total revenue for FY ended Jan 1, 2022; identical in all later 10-Ks."
+ },
+ {
+  "id": "Q52",
+  "answer": 122336000000,
+  "source": "raw/CIK0000732717.json us-gaap:Revenues, 2024-01-01 to 2024-12-31, 10-K filed 2025-02-12",
+  "note": "Total operating revenues FY2024; unchanged in the 10-K filed 2026-02-09."
+ },
+ {
+  "id": "Q53",
+  "answer": 94950000000,
+  "source": "raw/CIK0000070858.json us-gaap:Revenues, 2022-01-01 to 2022-12-31, 10-K filed 2023-02-22",
+  "note": "Total revenue, net of interest expense, FY2022; unchanged in later 10-Ks."
+ },
+ {
+  "id": "Q54",
+  "answer": 177556000000,
+  "source": "raw/CIK0000019617.json us-gaap:RevenuesNetOfInterestExpense (= us-gaap:Revenues), 2024-01-01 to 2024-12-31, 10-K filed 2025-02-14",
+  "note": "Total net revenue FY2024; unchanged in the 10-K filed 2026-02-13."
+ },
+ {
+  "id": "Q55",
+  "answer": 202792000000,
+  "source": "raw/CIK0000093410.json us-gaap:Revenues, 2024-01-01 to 2024-12-31, 10-K filed 2025-02-21",
+  "note": "Total revenues and other income FY2024 (sales and other operating revenues alone were 193414000000); unchanged in the 2026 10-K."
+ },
+ {
+  "id": "Q56",
+  "answer": 135500000,
+  "source": "raw/CIK0000046080.json us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, 2022-12-26 to 2023-12-31, 10-K filed 2026-02-25 (same in 10-K filed 2025-02-27)",
+  "note": "Most recently reported (recast) figure for FY2023; originally reported as 209300000 in the 10-K filed 2024-02-28."
+ },
+ {
+  "id": "Q57",
+  "answer": 3568000000,
+  "source": "raw/CIK0000040545.json us-gaap:NetCashProvidedByUsedInOperatingActivities, 2020-01-01 to 2020-12-31, 10-K filed 2022-02-11",
+  "note": "Total cash from operating activities for FY2020 as in the latest filing on or before 2022-08-15 (FY2021 10-K); originally 3597000000, later recast to 3411000000 in an 8-K filed 2023-04-25."
+ },
+ {
+  "id": "Q58",
+  "answer": 206000000,
+  "source": "raw/CIK0000766421.json us-gaap:PaymentsToAcquirePropertyPlantAndEquipment, 2020-01-01 to 2020-12-31, 10-K filed 2021-02-26",
+  "note": "Total property and equipment additions FY2020 as in the only filing on or before 2021-08-15 reporting it (FY2020 10-K); later revised to 222000000 in the 10-K filed 2022-02-11."
+ },
+ {
+  "id": "Q59",
+  "answer": 5.48,
+  "source": "raw/CIK0001298675.json us-gaap:Revenues FY2020 679177000 and FY2019 643915000 (10-K filed 2021-02-26)",
+  "note": "Percent change in total revenues, FY2020 vs FY2019; neither figure was later revised."
+ },
+ {
+  "id": "Q60",
+  "answer": 12.84,
+  "source": "raw/CIK0000775158.json us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax FY2021 7737300000 and FY2020 6856800000 (10-K filed 2021-11-16)",
+  "note": "Percent change in net sales, fiscal year ended 2021-09-30 vs 2020-09-30; neither figure was later revised."
+ }
+]

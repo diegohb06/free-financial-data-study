@@ -1,0 +1,362 @@
+[
+  {
+    "id": "Q01",
+    "batch": 1,
+    "question": "What was Koppers Holdings Inc.'s (KOP) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2021? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q02",
+    "batch": 1,
+    "question": "What was HealthStream Inc.'s (HSTM) total assets as of December 31, 2024 (its fiscal year end)? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q03",
+    "batch": 1,
+    "question": "What was Universal Corporation's (UVV) net income attributable to the company for the fiscal year ended March 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q04",
+    "batch": 1,
+    "question": "What was Henry Schein Inc.'s (HSIC) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended December 28, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q05",
+    "batch": 1,
+    "question": "What was JPMorgan Chase & Co.'s (JPM) total net revenue as shown on its consolidated income statement for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q06",
+    "batch": 1,
+    "question": "As first reported in the company's original annual report for that year (before any later restatement or recast): What was Pfizer Inc.'s (PFE) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q07",
+    "batch": 1,
+    "question": "As first reported in the company's original annual report for that year (before any later restatement or recast): What was General Electric Company (GE Aerospace)'s (GE) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q08",
+    "batch": 1,
+    "question": "Going only by SEC filings that were public on August 15, 2022 (use the most recent filing on or before that date that reports the figure): What was AT&T Inc.'s (T) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q09",
+    "batch": 1,
+    "question": "Going only by SEC filings that were public on August 15, 2024 (use the most recent filing on or before that date that reports the figure): What was American Tower Corporation's (AMT) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended December 31, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q10",
+    "batch": 1,
+    "question": "What was Toll Brothers Inc.'s (TOL) operating margin (operating income as shown on its own income statement divided by total revenue) for the fiscal year ended October 31, 2021? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q11",
+    "batch": 2,
+    "question": "What was Jabil Inc.'s (JBL) net income attributable to the company for the fiscal year ended August 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q12",
+    "batch": 2,
+    "question": "What was UnitedHealth Group Incorporated's (UNH) total assets as of December 31, 2019 (its fiscal year end)? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q13",
+    "batch": 2,
+    "question": "What was Alcoa Corporation's (AA) net income attributable to the company for the fiscal year ended December 31, 2025? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q14",
+    "batch": 2,
+    "question": "What was Zions Bancorporation N.A.'s (ZION) net income before deducting preferred stock dividends for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q15",
+    "batch": 2,
+    "question": "What was The Coca-Cola Company's (KO) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q16",
+    "batch": 2,
+    "question": "As most recently reported by the company in its SEC filings (the latest restated or recast figure, as of October 2026): What was Oshkosh Corporation's (OSK) net income attributable to the company for the fiscal year ended September 30, 2021? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q17",
+    "batch": 2,
+    "question": "As first reported in the company's original annual report for that year (before any later restatement or recast): What was Northwest Natural Holding Company's (NWN) net cash provided by operating activities for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q18",
+    "batch": 2,
+    "question": "Going only by SEC filings that were public on February 15, 2021 (use the most recent filing on or before that date that reports the figure): What was ScanSource Inc.'s (SCSC) cash paid for purchases of property, plant and equipment (capital expenditures) as shown on its cash flow statement for the fiscal year ended June 30, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q19",
+    "batch": 2,
+    "question": "Going only by SEC filings that were public on August 15, 2020 (use the most recent filing on or before that date that reports the figure): What was Koppers Holdings Inc.'s (KOP) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended December 31, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q20",
+    "batch": 2,
+    "question": "What was The Coca-Cola Company's (KO) net profit margin (net income attributable to the company divided by total revenue) for the fiscal year ended December 31, 2024? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q21",
+    "batch": 3,
+    "question": "What was ANI Pharmaceuticals Inc.'s (ANIP) total assets as of December 31, 2025 (its fiscal year end)? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q22",
+    "batch": 3,
+    "question": "What was Haverty Furniture Companies Inc.'s (HVT) net income attributable to the company for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q23",
+    "batch": 3,
+    "question": "What was Johnson & Johnson's (JNJ) total assets as of December 29, 2024 (its fiscal year end)? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q24",
+    "batch": 3,
+    "question": "What was Western Alliance Bancorporation's (WAL) net income before deducting preferred stock dividends for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q25",
+    "batch": 3,
+    "question": "What was Chevron Corporation's (CVX) total revenues and other income as shown on its consolidated income statement for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q26",
+    "batch": 3,
+    "question": "As first reported in the company's original annual report for that year (before any later restatement or recast): What was Exelixis Inc.'s (EXEL) cash paid for purchases of property, plant and equipment (capital expenditures) as shown on its cash flow statement for the fiscal year ended December 31, 2021? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q27",
+    "batch": 3,
+    "question": "As most recently reported by the company in its SEC filings (the latest restated or recast figure, as of October 2026): What was ScanSource Inc.'s (SCSC) total revenue (the total revenue line on its income statement) for the fiscal year ended June 30, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q28",
+    "batch": 3,
+    "question": "Going only by SEC filings that were public on August 15, 2021 (use the most recent filing on or before that date that reports the figure): What was Pfizer Inc.'s (PFE) cash paid for purchases of property, plant and equipment (capital expenditures) as shown on its cash flow statement for the fiscal year ended December 31, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q29",
+    "batch": 3,
+    "question": "What was Walmart Inc.'s (WMT) operating margin (operating income as shown on its own income statement divided by total revenue) for the fiscal year ended January 31, 2021? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q30",
+    "batch": 3,
+    "question": "By what percentage did Hasbro Inc.'s (HAS) total revenue change in the fiscal year ended December 28, 2025, compared with the previous fiscal year? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q31",
+    "batch": 4,
+    "question": "What was UGI Corporation's (UGI) total revenue (the total revenue line on its income statement) for the fiscal year ended September 30, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q32",
+    "batch": 4,
+    "question": "What was The Procter & Gamble Company's (PG) total revenue (the total revenue line on its income statement) for the fiscal year ended June 30, 2025? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q33",
+    "batch": 4,
+    "question": "What was UGI Corporation's (UGI) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended September 30, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q34",
+    "batch": 4,
+    "question": "What was Exxon Mobil Corporation's (XOM) total revenues and other income as shown on its consolidated income statement for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q35",
+    "batch": 4,
+    "question": "What was JPMorgan Chase & Co.'s (JPM) net income available (applicable) to common shareholders, after preferred dividends for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q36",
+    "batch": 4,
+    "question": "As first reported in the company's original annual report for that year (before any later restatement or recast): What was JPMorgan Chase & Co.'s (JPM) net cash provided by operating activities for the fiscal year ended December 31, 2019? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q37",
+    "batch": 4,
+    "question": "As most recently reported by the company in its SEC filings (the latest restated or recast figure, as of October 2026): What was Johnson & Johnson's (JNJ) total revenue (the total revenue line on its income statement) for the fiscal year ended January 2, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q38",
+    "batch": 4,
+    "question": "Going only by SEC filings that were public on June 15, 2026 (use the most recent filing on or before that date that reports the figure): What was Bank of America Corporation's (BAC) total revenue, net of interest expense, as shown on its consolidated income statement for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q39",
+    "batch": 4,
+    "question": "What was Microsoft Corporation's (MSFT) net profit margin (net income attributable to the company divided by total revenue) for the fiscal year ended June 30, 2025? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q40",
+    "batch": 4,
+    "question": "By what percentage did Caterpillar Inc.'s (CAT) total revenue change in the fiscal year ended December 31, 2021, compared with the previous fiscal year? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q41",
+    "batch": 5,
+    "question": "What was Exelixis Inc.'s (EXEL) total assets as of January 3, 2025 (its fiscal year end)? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q42",
+    "batch": 5,
+    "question": "What was Tesla Inc.'s (TSLA) net income attributable to the company for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q43",
+    "batch": 5,
+    "question": "What was Bank of America Corporation's (BAC) net income available (applicable) to common shareholders, after preferred dividends for the fiscal year ended December 31, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q44",
+    "batch": 5,
+    "question": "What was Exxon Mobil Corporation's (XOM) total revenues and other income as shown on its consolidated income statement for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q45",
+    "batch": 5,
+    "question": "What was Jabil Inc.'s (JBL) operating income as shown on the company's own income statement (not a standardized or adjusted figure) for the fiscal year ended August 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q46",
+    "batch": 5,
+    "question": "As most recently reported by the company in its SEC filings (the latest restated or recast figure, as of October 2026): What was Talos Energy Inc.'s (TALO) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q47",
+    "batch": 5,
+    "question": "Going only by SEC filings that were public on December 15, 2025 (use the most recent filing on or before that date that reports the figure): What was General Electric Company (GE Aerospace)'s (GE) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q48",
+    "batch": 5,
+    "question": "Going only by SEC filings that were public on August 15, 2024 (use the most recent filing on or before that date that reports the figure): What was American Tower Corporation's (AMT) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q49",
+    "batch": 5,
+    "question": "What was The Home Depot Inc.'s (HD) operating margin (operating income as shown on its own income statement divided by total revenue) for the fiscal year ended February 2, 2025? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q50",
+    "batch": 5,
+    "question": "What was Digi International Inc.'s (DGII) net profit margin (net income attributable to the company divided by total revenue) for the fiscal year ended September 30, 2023? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q51",
+    "batch": 6,
+    "question": "What was Lattice Semiconductor Corporation's (LSCC) total revenue (the total revenue line on its income statement) for the fiscal year ended January 1, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q52",
+    "batch": 6,
+    "question": "What was AT&T Inc.'s (T) total revenue (the total revenue line on its income statement) for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q53",
+    "batch": 6,
+    "question": "What was Bank of America Corporation's (BAC) total revenue, net of interest expense, as shown on its consolidated income statement for the fiscal year ended December 31, 2022? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q54",
+    "batch": 6,
+    "question": "What was JPMorgan Chase & Co.'s (JPM) total net revenue as shown on its consolidated income statement for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q55",
+    "batch": 6,
+    "question": "What was Chevron Corporation's (CVX) total revenues and other income as shown on its consolidated income statement for the fiscal year ended December 31, 2024? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q56",
+    "batch": 6,
+    "question": "As most recently reported by the company in its SEC filings (the latest restated or recast figure, as of October 2026): What was Hasbro Inc.'s (HAS) cash paid for purchases of property, plant and equipment (capital expenditures) as shown on its cash flow statement for the fiscal year ended December 31, 2023? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q57",
+    "batch": 6,
+    "question": "Going only by SEC filings that were public on August 15, 2022 (use the most recent filing on or before that date that reports the figure): What was General Electric Company (GE Aerospace)'s (GE) net cash provided by operating activities for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q58",
+    "batch": 6,
+    "question": "Going only by SEC filings that were public on August 15, 2021 (use the most recent filing on or before that date that reports the figure): What was Alaska Air Group Inc.'s (ALK) cash paid for purchases of property, plant and equipment (capital expenditures) as shown on its cash flow statement for the fiscal year ended December 31, 2020? Answer in whole US dollars.",
+    "unit": "USD"
+  },
+  {
+    "id": "Q59",
+    "batch": 6,
+    "question": "By what percentage did CubeSmart's (CUBE) total revenue change in the fiscal year ended December 31, 2020, compared with the previous fiscal year? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  },
+  {
+    "id": "Q60",
+    "batch": 6,
+    "question": "By what percentage did Oshkosh Corporation's (OSK) total revenue change in the fiscal year ended September 30, 2021, compared with the previous fiscal year? Answer as a percentage to two decimal places.",
+    "unit": "percent"
+  }
+]

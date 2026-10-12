@@ -1,0 +1,372 @@
+{
+  "conditions": {
+    "A": "web search only",
+    "B": "raw SEC companyfacts",
+    "C": "Ground Truth pipeline data"
+  },
+  "accuracy": {
+    "A": {
+      "all": {
+        "correct": 59,
+        "questions": 60,
+        "accuracy": 0.9833333333333333,
+        "ci95": [
+          0.9114466177322051,
+          0.9970519161391262
+        ]
+      },
+      "lookup": {
+        "correct": 14,
+        "questions": 15,
+        "accuracy": 0.9333333333333333,
+        "ci95": [
+          0.7018292244757601,
+          0.9881334113938051
+        ]
+      },
+      "definition": {
+        "correct": 15,
+        "questions": 15,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7961107336956521,
+          1.0
+        ]
+      },
+      "restatement": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "point_in_time": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "derived": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      }
+    },
+    "B": {
+      "all": {
+        "correct": 60,
+        "questions": 60,
+        "accuracy": 1.0,
+        "ci95": [
+          0.9398260695220669,
+          0.9999999999999999
+        ]
+      },
+      "lookup": {
+        "correct": 15,
+        "questions": 15,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7961107336956521,
+          1.0
+        ]
+      },
+      "definition": {
+        "correct": 15,
+        "questions": 15,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7961107336956521,
+          1.0
+        ]
+      },
+      "restatement": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "point_in_time": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "derived": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      }
+    },
+    "C": {
+      "all": {
+        "correct": 60,
+        "questions": 60,
+        "accuracy": 1.0,
+        "ci95": [
+          0.9398260695220669,
+          0.9999999999999999
+        ]
+      },
+      "lookup": {
+        "correct": 15,
+        "questions": 15,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7961107336956521,
+          1.0
+        ]
+      },
+      "definition": {
+        "correct": 15,
+        "questions": 15,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7961107336956521,
+          1.0
+        ]
+      },
+      "restatement": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "point_in_time": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      },
+      "derived": {
+        "correct": 10,
+        "questions": 10,
+        "accuracy": 1.0,
+        "ci95": [
+          0.7224598312333834,
+          1.0
+        ]
+      }
+    }
+  },
+  "failures": {
+    "A": {
+      "unmatched": 1
+    },
+    "B": {},
+    "C": {}
+  },
+  "comparisons": {
+    "C_minus_B": {
+      "all": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "lookup": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "definition": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "restatement": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "point_in_time": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "derived": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      }
+    },
+    "C_minus_A": {
+      "all": {
+        "difference": 0.016666666666666666,
+        "ci95": [
+          0.0,
+          0.05
+        ],
+        "first_right_second_wrong": 1,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "lookup": {
+        "difference": 0.06666666666666667,
+        "ci95": [
+          0.0,
+          0.2
+        ],
+        "first_right_second_wrong": 1,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "definition": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "restatement": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "point_in_time": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "derived": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      }
+    },
+    "B_minus_A": {
+      "all": {
+        "difference": 0.016666666666666666,
+        "ci95": [
+          0.0,
+          0.05
+        ],
+        "first_right_second_wrong": 1,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "lookup": {
+        "difference": 0.06666666666666667,
+        "ci95": [
+          0.0,
+          0.2
+        ],
+        "first_right_second_wrong": 1,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "definition": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "restatement": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "point_in_time": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      },
+      "derived": {
+        "difference": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ],
+        "first_right_second_wrong": 0,
+        "second_right_first_wrong": 0,
+        "exact_p_value": 1.0
+      }
+    }
+  }
+}

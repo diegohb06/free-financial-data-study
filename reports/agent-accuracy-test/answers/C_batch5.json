@@ -1,0 +1,62 @@
+[
+ {
+  "id": "Q41",
+  "answer": 2947690000,
+  "source": "pipeline/values.csv: EXEL TotalAssets (Assets) FY end 2025-01-03, 10-K 0000939767-25-000019",
+  "note": "Total assets at fiscal year end 2025-01-03; unchanged across all 5 versions."
+ },
+ {
+  "id": "Q42",
+  "answer": 721000000,
+  "source": "pipeline/values.csv: TSLA NetIncome (NetIncomeLoss) FY 2020-12-31, 10-K 0001564590-21-004599",
+  "note": "Net income attributable to the parent for FY2020; same in all 3 versions."
+ },
+ {
+  "id": "Q43",
+  "answer": 26015000000,
+  "source": "pipeline/values.csv: BAC NetIncomeToCommon (NetIncomeLossAvailableToCommonStockholdersBasic) FY 2022-12-31, 10-K 0000070858-23-000092",
+  "note": "Net income applicable to common shareholders after preferred dividends, FY2022; same in all versions."
+ },
+ {
+  "id": "Q44",
+  "answer": 344582000000,
+  "source": "pipeline/values.csv: XOM Revenue (Revenues) FY 2023-12-31, 10-K 0000034088-24-000018",
+  "note": "Total revenues and other income as totalled on the income statement, FY2023; same in all versions."
+ },
+ {
+  "id": "Q45",
+  "answer": 2013000000,
+  "source": "pipeline/values.csv: JBL OperatingIncome (OperatingIncomeLoss) FY 2024-08-31, 10-K 0001628280-24-043960",
+  "note": "Operating income as reported on the income statement, FY ended 2024-08-31; same in both versions."
+ },
+ {
+  "id": "Q46",
+  "answer": 575936000,
+  "source": "pipeline/values.csv: TALO Revenue (Revenues) FY 2020-12-31, latest version, 10-K 0000950170-23-005278 filed 2023-03-01",
+  "note": "Latest reported total revenue for FY2020 (revised from 587486000 first reported in the 10-K filed 2021-03-11)."
+ },
+ {
+  "id": "Q47",
+  "answer": 29139000000,
+  "source": "pipeline/values.csv: GE Revenue (Revenues) FY 2022-12-31, version 4, 10-K 0000040545-25-000015 filed 2025-02-03",
+  "note": "Total revenue for FY2022 per the most recent filing on or before 2025-12-15 (recast; 76555000000 first reported, 58100000000 in 2023-2024 filings)."
+ },
+ {
+  "id": "Q48",
+  "answer": 11144200000,
+  "source": "pipeline/values.csv: AMT Revenue (Revenues) FY 2023-12-31, version 1, 10-K 0001053507-24-000011 filed 2024-02-27",
+  "note": "Total revenue for FY2023 as known on 2024-08-15; the recast to 10012200000 was only filed 2025-02-25."
+ },
+ {
+  "id": "Q49",
+  "answer": 13.49,
+  "source": "pipeline/values.csv: HD OperatingIncome 21526000000 / Revenue 159514000000, FY 2025-02-02, 10-K 0000354950-25-000085",
+  "note": "Operating income as reported divided by net sales, FY ended 2025-02-02; both unchanged across versions."
+ },
+ {
+  "id": "Q50",
+  "answer": 5.57,
+  "source": "pipeline/values.csv: DGII NetIncome 24770000 / Revenue 444849000, FY 2023-09-30, 10-K 0000854775-23-000015",
+  "note": "Net income divided by total revenue, FY ended 2023-09-30; both unchanged across versions."
+ }
+]
